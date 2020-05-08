@@ -35,3 +35,15 @@ body{
 .navbar-dark{
 	background-color: #512DA8;
 }
+.jumbotron1{
+	padding: 30px 70px 30px 30px;
+	margin: 0px auto;
+	background: #FFFFFF;
+	color: #000000;
+}
+.jumbotron2{
+	padding: 0px 0px 10px 0px;
+	margin: 30px auto;
+	background: #E1AD01;
+	color: white;
+}
